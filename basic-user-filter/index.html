@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Color Picker</title>
+
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <div class="main"></div>
+      <label>(R) Vermelho:</label>
+      <input type="range" id="rangeRed" min="0" max="255" value="0" />
+      <input type="text" id="textRed" value="0" readonly disabled />
+      <p></p>
+      <label>(G) Verde:</label>
+      <input type="range" id="rangeGreen" min="0" max="255" value="0" />
+      <input type="text" id="textGreen" value="0" readonly disabled />
+      <p></p>
+      <label>(B) Azul:</label>
+      <input type="range" id="rangeBlue" min="0" max="255" value="0" />
+      <input type="text" id="textBlue" value="0" readonly disabled />
+    </div>
+    <div id="divColor"></div>
+    <script src="./js/script.js"></script>
+  </body>
+</html>
