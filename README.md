@@ -4,23 +4,24 @@ Este repositório é destinado à disponibilizar os trabalhos e desafios passado
 
 ---
 
-## Sobre o Bootcamp:
+## Sobre o Bootcamp
 
 O Bootcamp Online – IGTI é um programa educacional prático e intensivo,
 ministrado a distância, que tem por objetivo o desenvolvimento de habilidades que
 permitam ao aluno desempenhar atividade profissional na área.
-[Mais detalhes sobre o Bootcamp](https://www.igti.com.br/custom/bootcamp-desenvolvedor-full-stack)
+[Mais detalhes sobre o Bootcamp](https://www.igti.com.br/custom/bootcamp-desenvolvedor-full-stack).
 
 ---
 
-## Conteúdo Pragmático:
+## Conteúdo Pragmático
 
 ### Fundamentos
 
 - Introdução, instalação e configuração do Visual Studio Code (VSCode).
 - Instalação do Node.js. Instalação da biblioteca live-server.
 - Noções de HTML e CSS. Introdução ao JavaScript. Integração do JavaScript com o HTML e CSS.
-- JavaScript básico – console, comentários, tipos primitivos, variáveis, APIs nativas de servidor e web, funções, estruturas de decisão, estruturas de repetição e manipulação de eventos.
+- JavaScript básico – console, comentários, tipos primitivos, variáveis, APIs nativas de servidor e web, funções, estruturas de decisão, 
+estruturas de repetição e manipulação de eventos.
 
 ---
 
