@@ -62,5 +62,4 @@ permitam ao aluno desempenhar atividade profissional na área.
 
 - **Lucas Sampaio (lucasfe4nor)** - [Twitter](https://twitter.com/lucasfe4nor) - [LinkedIn](https://www.linkedin.com/in/lucasgbsampaio/)
 
----
 
